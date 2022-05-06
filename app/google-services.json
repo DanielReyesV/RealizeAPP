@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314416618139",
+    "project_id": "realizeapp-96a44",
+    "storage_bucket": "realizeapp-96a44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314416618139:android:4190232351d7546e19843e",
+        "android_client_info": {
+          "package_name": "com.example.realizeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314416618139-pre64h51lrt6llv9rji3agbsl4nt71a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaYTnzMoziwN3HN_1G-uMWFA32WCxHIRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314416618139-pre64h51lrt6llv9rji3agbsl4nt71a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
