@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Proyecto_U/Android/RealizeApp/app/src/main/res/layout/fragment_upload_legal_documents.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyecto_U/Nueva carpeta/app/src/main/res/drawable/custom_input.xml" value="0.1" />
+        <entry key="..\:/Proyecto_U/Nueva carpeta/app/src/main/res/layout/activity_jair_counter.xml" value="0.1762917933130699" />
+        <entry key="..\:/Proyecto_U/Nueva carpeta/app/src/main/res/layout/fragment_change_personal_data.xml" value="0.1762917933130699" />
+        <entry key="..\:/Proyecto_U/Nueva carpeta/app/src/main/res/layout/fragment_company_profile_setting.xml" value="0.1762917933130699" />
+        <entry key="..\:/Proyecto_U/Nueva carpeta/app/src/main/res/layout/fragment_login.xml" value="0.1762917933130699" />
+        <entry key="..\:/Proyecto_U/Nueva carpeta/app/src/main/res/layout/fragment_upload_legal_documents.xml" value="0.1" />
+        <entry key="..\:/Semestre 4/Taller 2/Movile Apps/Realize/app/src/main/res/layout/activity_jair_counter.xml" value="0.1259259259259259" />
+        <entry key="..\:/Semestre 4/Taller 2/Movile Apps/Realize/app/src/main/res/layout/activity_jair_qr_code.xml" value="0.3482789855072464" />
+        <entry key="..\:/Semestre 4/Taller 2/Movile Apps/Realize/app/src/main/res/layout/activity_jair_screen_awards.xml" value="0.18541666666666667" />
+        <entry key="..\:/Semestre 4/Taller 2/Movile Apps/Realize/app/src/main/res/layout/activity_main.xml" value="0.3482789855072464" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
